@@ -628,6 +628,7 @@
 - [Jest](https://github.com/facebook/jest) - Painless JavaScript testing.
 - [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing.
 - [abstruse](https://github.com/bleenco/abstruse) - Continuous Integration server.
+- [iso-test](https://github.com/isysd-mirror/iso-test) - An isomorphic testing framework to test es6 modules using nodejs and all browser / OS combinations.
 
 
 ### Security
